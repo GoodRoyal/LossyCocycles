@@ -1,0 +1,21 @@
+{
+  "r=2": {
+    "max_min_tr": 0.84693,
+    "chern": 1.0000000000000002,
+    "energy_ratio": 0.246
+  },
+  "r=3": {
+    "max_min_tr": 0.95388,
+    "chern": 0.9999999999999999,
+    "energy_ratio": 0.262
+  },
+  "r=4": {
+    "max_min_tr": 1.43504,
+    "chern": 1.0000000000000002,
+    "energy_ratio": 0.2358
+  },
+  "const_v": {
+    "min_tr": -3.0,
+    "energy_ratio": 0.3001
+  }
+}

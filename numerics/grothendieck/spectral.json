@@ -1,0 +1,154 @@
+{
+  "m8": [
+    {
+      "label": "chern-4_0",
+      "chern": -4.0,
+      "minimax_bracket": -0.00307,
+      "inertia": [
+        0,
+        0,
+        64
+      ],
+      "nuMnu": 1e-06,
+      "rayleigh": 0.024279,
+      "bottom_eig": 0.000719,
+      "copositive_max": 0.020625,
+      "cert": false
+    },
+    {
+      "label": "chern-4_1",
+      "chern": -4.0,
+      "minimax_bracket": -0.00321,
+      "inertia": [
+        0,
+        0,
+        64
+      ],
+      "nuMnu": 1e-06,
+      "rayleigh": 0.021524,
+      "bottom_eig": 0.000762,
+      "copositive_max": 0.018227,
+      "cert": false
+    },
+    {
+      "label": "chern-2_0",
+      "chern": -2.0,
+      "minimax_bracket": -0.00326,
+      "inertia": [
+        0,
+        0,
+        64
+      ],
+      "nuMnu": 1e-06,
+      "rayleigh": 0.034177,
+      "bottom_eig": 0.001022,
+      "copositive_max": 0.039007,
+      "cert": false
+    },
+    {
+      "label": "chern-2_1",
+      "chern": -2.0,
+      "minimax_bracket": -0.00393,
+      "inertia": [
+        0,
+        0,
+        64
+      ],
+      "nuMnu": 1e-06,
+      "rayleigh": 0.040419,
+      "bottom_eig": 0.001067,
+      "copositive_max": 0.049439,
+      "cert": false
+    },
+    {
+      "label": "chern0_0",
+      "chern": -0.0,
+      "minimax_bracket": -0.00344,
+      "inertia": [
+        0,
+        0,
+        64
+      ],
+      "nuMnu": 1e-06,
+      "rayleigh": 0.025239,
+      "bottom_eig": 0.001241,
+      "copositive_max": 0.039186,
+      "cert": false
+    },
+    {
+      "label": "chern0_1",
+      "chern": 0.0,
+      "minimax_bracket": -0.0033,
+      "inertia": [
+        0,
+        0,
+        64
+      ],
+      "nuMnu": 1e-06,
+      "rayleigh": 0.031069,
+      "bottom_eig": 0.000979,
+      "copositive_max": 0.037597,
+      "cert": false
+    },
+    {
+      "label": "chern2_0",
+      "chern": 2.0,
+      "minimax_bracket": -0.00363,
+      "inertia": [
+        0,
+        0,
+        64
+      ],
+      "nuMnu": 1e-06,
+      "rayleigh": 0.035776,
+      "bottom_eig": 0.000631,
+      "copositive_max": 0.030924,
+      "cert": false
+    },
+    {
+      "label": "chern2_1",
+      "chern": 2.0,
+      "minimax_bracket": -0.00268,
+      "inertia": [
+        0,
+        0,
+        64
+      ],
+      "nuMnu": 1e-06,
+      "rayleigh": 0.024904,
+      "bottom_eig": 0.001165,
+      "copositive_max": 0.021372,
+      "cert": false
+    },
+    {
+      "label": "chern4_0",
+      "chern": 4.0,
+      "minimax_bracket": -0.00298,
+      "inertia": [
+        0,
+        0,
+        64
+      ],
+      "nuMnu": 1e-06,
+      "rayleigh": 0.027631,
+      "bottom_eig": 0.000755,
+      "copositive_max": 0.018779,
+      "cert": false
+    },
+    {
+      "label": "chern4_1",
+      "chern": 4.0,
+      "minimax_bracket": -0.00311,
+      "inertia": [
+        0,
+        0,
+        64
+      ],
+      "nuMnu": 1e-06,
+      "rayleigh": 0.025582,
+      "bottom_eig": 0.000805,
+      "copositive_max": 0.018275,
+      "cert": false
+    }
+  ]
+}

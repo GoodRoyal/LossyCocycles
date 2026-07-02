@@ -1,0 +1,128 @@
+{
+  "k1_m6": {
+    "ansatz_chern": -0.0,
+    "ansatz_worst_margin": -0.0,
+    "best_worst_margin_in_minus_k": null,
+    "best_worst_margin_overall": 1.0,
+    "sectors": {
+      "-0.0": [
+        1.0,
+        0.5981
+      ],
+      "0.0": [
+        1.0,
+        0.5946,
+        1.0
+      ],
+      "-2.0": [
+        0.5958
+      ]
+    }
+  },
+  "k1_m8": {
+    "ansatz_chern": -0.0,
+    "ansatz_worst_margin": -0.0,
+    "best_worst_margin_in_minus_k": null,
+    "best_worst_margin_overall": 0.744,
+    "sectors": {
+      "0.0": [
+        -0.0,
+        0.744,
+        0.7437
+      ],
+      "-0.0": [
+        -0.0
+      ],
+      "2.0": [
+        0.7373,
+        0.7424
+      ]
+    }
+  },
+  "k1_m12": {
+    "ansatz_chern": 0.0,
+    "ansatz_worst_margin": -0.0,
+    "best_worst_margin_in_minus_k": null,
+    "best_worst_margin_overall": 0.9997,
+    "sectors": {
+      "0.0": [
+        -0.0,
+        0.9997,
+        0.8008
+      ],
+      "-0.0": [
+        -0.0,
+        0.8664
+      ],
+      "-2.0": [
+        0.8477
+      ]
+    }
+  },
+  "k2_m6": {
+    "ansatz_chern": -0.0,
+    "ansatz_worst_margin": -0.0,
+    "best_worst_margin_in_minus_k": null,
+    "best_worst_margin_overall": 1.0,
+    "sectors": {
+      "-0.0": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "0.0": [
+        1.0
+      ],
+      "2.0": [
+        0.5968
+      ]
+    }
+  },
+  "k2_m8": {
+    "ansatz_chern": -0.0,
+    "ansatz_worst_margin": -0.0,
+    "best_worst_margin_in_minus_k": 0.743,
+    "best_worst_margin_overall": 1.0,
+    "sectors": {
+      "0.0": [
+        -0.0,
+        1.0
+      ],
+      "-0.0": [
+        -0.0
+      ],
+      "2.0": [
+        0.7432
+      ],
+      "-2.0": [
+        0.743
+      ],
+      "4.0": [
+        0.7195
+      ]
+    }
+  },
+  "k2_m12": {
+    "ansatz_chern": 0.0,
+    "ansatz_worst_margin": -0.0,
+    "best_worst_margin_in_minus_k": 0.8737,
+    "best_worst_margin_overall": 0.9999,
+    "sectors": {
+      "0.0": [
+        -0.0
+      ],
+      "-0.0": [
+        -0.0,
+        0.9999
+      ],
+      "-2.0": [
+        0.8737,
+        0.8281
+      ],
+      "2.0": [
+        0.8738
+      ]
+    }
+  }
+}

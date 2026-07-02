@@ -1,0 +1,32 @@
+{
+  "4": {
+    "in_core": 1.3431,
+    "free": 1.2709,
+    "supp_mean": 0.9763,
+    "supp_max": 0.9999
+  },
+  "6": {
+    "in_core": 1.383,
+    "free": 1.383,
+    "supp_mean": 0.0,
+    "supp_max": 0.0
+  },
+  "8": {
+    "in_core": 1.3968,
+    "free": 1.3968,
+    "supp_mean": 0.0,
+    "supp_max": 0.0
+  },
+  "12": {
+    "in_core": 1.4065,
+    "free": 1.4065,
+    "supp_mean": 0.0,
+    "supp_max": 0.0
+  },
+  "16": {
+    "in_core": 1.4099,
+    "free": 1.4099,
+    "supp_mean": 0.0,
+    "supp_max": 0.0
+  }
+}

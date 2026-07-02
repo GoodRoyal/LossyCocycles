@@ -1,0 +1,56 @@
+{
+  "in-core S": {
+    "init_chern": 0.0,
+    "init_pb": 2.0,
+    "final_pb": 1.383,
+    "final_chern": 4.963887282750706e-17
+  },
+  "random0": {
+    "init_chern": -1.0000000000000002,
+    "init_pb": 1.8886,
+    "final_pb": 1.0161,
+    "final_chern": 1.0
+  },
+  "random1": {
+    "init_chern": 2.0000000000000004,
+    "init_pb": 1.8729,
+    "final_pb": 1.0215,
+    "final_chern": 1.0000000000000002
+  },
+  "random2": {
+    "init_chern": 1.9999999999999998,
+    "init_pb": 1.8375,
+    "final_pb": 1.0237,
+    "final_chern": 0.9999999999999997
+  },
+  "random3": {
+    "init_chern": 1.9999999999999998,
+    "init_pb": 1.7792,
+    "final_pb": 1.0226,
+    "final_chern": 1.0
+  },
+  "random4": {
+    "init_chern": -3.9999999999999996,
+    "init_pb": 1.7638,
+    "final_pb": 1.0232,
+    "final_chern": 1.0000000000000002
+  },
+  "random5": {
+    "init_chern": -0.9999999999999997,
+    "init_pb": 1.9067,
+    "final_pb": 1.0226,
+    "final_chern": 2.0000000000000004
+  },
+  "random6": {
+    "init_chern": -3.0,
+    "init_pb": 1.8504,
+    "final_pb": 1.037,
+    "final_chern": -2.473764752249402e-16
+  },
+  "random7": {
+    "init_chern": -1.0000000000000002,
+    "init_pb": 1.8456,
+    "final_pb": 1.0264,
+    "final_chern": 1.0000000000000002
+  }
+}

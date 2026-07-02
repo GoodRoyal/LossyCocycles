@@ -1,0 +1,32 @@
+{
+  "lines": [
+    {
+      "C_len": 6,
+      "mu0": 0.9075942563245256,
+      "sum_log2R": -5.446,
+      "split_const": 4.159,
+      "split_logW": -2.554,
+      "split_logcos": -7.05,
+      "Hol_over_pi": -1.246,
+      "avg_abspsi_deg": 60.3,
+      "jensen_bound": 0.227,
+      "phase_share": 0.734,
+      "kind": "margin"
+    },
+    {
+      "C_len": 12,
+      "mu0": 0.41825532801936954,
+      "sum_log2R": -5.019,
+      "split_const": 8.318,
+      "split_logW": -4.67,
+      "split_logcos": -8.667,
+      "Hol_over_pi": 0.651,
+      "avg_abspsi_deg": 51.9,
+      "jensen_bound": 3.473,
+      "phase_share": 0.65,
+      "kind": "pushed"
+    }
+  ],
+  "mean_phase_share": 0.692,
+  "jensen_certifies": "0/2"
+}

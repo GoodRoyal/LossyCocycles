@@ -1,0 +1,38 @@
+{
+  "chern-1 ansatz": {
+    "init_chern": -1.236882376124701e-16,
+    "init_pb": 1.9319,
+    "min_pb": 1.0101,
+    "final_chern": 0.9999999999999999
+  },
+  "in-core": {
+    "init_chern": 0.0,
+    "init_pb": 2.0,
+    "min_pb": 1.0075,
+    "final_chern": 4.121962823039528e-17
+  },
+  "random0": {
+    "init_chern": -1.0000000000000002,
+    "init_pb": 1.9999,
+    "min_pb": 1.0058,
+    "final_chern": 1.0000000000000002
+  },
+  "random1": {
+    "init_chern": -2.0000000000000004,
+    "init_pb": 2.0,
+    "min_pb": 1.0041,
+    "final_chern": 1.0000000000000002
+  },
+  "random2": {
+    "init_chern": 1.9999999999999993,
+    "init_pb": 1.9995,
+    "min_pb": 1.0051,
+    "final_chern": 1.0
+  },
+  "random3": {
+    "init_chern": 1.0,
+    "init_pb": 1.9998,
+    "min_pb": 1.0051,
+    "final_chern": 1.0
+  }
+}

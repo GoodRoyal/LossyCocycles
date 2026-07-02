@@ -1,0 +1,71 @@
+{
+  "runs": [
+    {
+      "m": 5,
+      "k": 2,
+      "n_allray_chern": 10,
+      "best": {
+        "seed": 9,
+        "chern": 2.0,
+        "min_mean_R": 0.8057,
+        "meanRh": 0.81,
+        "meanRv": 0.8057,
+        "allray_slack": 0.02,
+        "min_S": 11.1504,
+        "mu_star": 0.723,
+        "mu0_hermitian": -0.2844
+      }
+    },
+    {
+      "m": 6,
+      "k": 2,
+      "n_allray_chern": 2,
+      "best": {
+        "seed": 18,
+        "chern": 1.0,
+        "min_mean_R": 0.8212,
+        "meanRh": 0.8212,
+        "meanRv": 0.8227,
+        "allray_slack": 0.01,
+        "min_S": 16.9089,
+        "mu_star": 0.9936,
+        "mu0_hermitian": -0.2431
+      }
+    },
+    {
+      "m": 7,
+      "k": 2,
+      "n_allray_chern": 0,
+      "best": null
+    },
+    {
+      "m": 8,
+      "k": 2,
+      "n_allray_chern": 0,
+      "best": null
+    },
+    {
+      "m": 6,
+      "k": 1,
+      "n_allray_chern": 0,
+      "best": null
+    },
+    {
+      "m": 4,
+      "k": 2,
+      "n_allray_chern": 11,
+      "best": {
+        "seed": 2,
+        "chern": 2.0,
+        "min_mean_R": 0.7602,
+        "meanRh": 0.7606,
+        "meanRv": 0.7602,
+        "allray_slack": 0.0198,
+        "min_S": 6.4471,
+        "mu_star": 0.8677,
+        "mu0_hermitian": -0.2497
+      }
+    }
+  ],
+  "global_worst_min_mean_R": 0.8212
+}

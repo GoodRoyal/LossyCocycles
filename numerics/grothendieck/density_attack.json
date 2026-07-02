@@ -1,0 +1,55 @@
+{
+  "per_mk": [
+    {
+      "m": 5,
+      "k": 2,
+      "n_lines": 8,
+      "a": 0.7308,
+      "B_CS_density": 0.3852,
+      "sum_var0": 3.654,
+      "B_CS": 1.926,
+      "nn_err": 2.220446049250313e-15,
+      "D_pos_frac": 0.85,
+      "D_mean": 0.963,
+      "D_min": -0.343,
+      "sig_p": 1.0036,
+      "sig_C": 0.5553,
+      "sig_R": 0.5968,
+      "sig_R2": 0.6832,
+      "slack": 0.3456,
+      "R2_over_p2": 0.6746,
+      "frac_ge": {
+        "0.1": 0.95,
+        "0.2": 0.65,
+        "0.3": 0.45
+      },
+      "nring": 10
+    },
+    {
+      "m": 6,
+      "k": 2,
+      "n_lines": 8,
+      "a": 0.8683,
+      "B_CS_density": 0.5712,
+      "sum_var0": 5.21,
+      "B_CS": 3.427,
+      "nn_err": 3.1086244689504383e-15,
+      "D_pos_frac": 1.0,
+      "D_mean": 1.7137,
+      "D_min": 0.3725,
+      "sig_p": 1.1123,
+      "sig_C": 0.4993,
+      "sig_R": 0.5887,
+      "sig_R2": 0.663,
+      "slack": 0.2971,
+      "R2_over_p2": 0.5858,
+      "frac_ge": {
+        "0.1": 1.0,
+        "0.2": 0.9166666666666666,
+        "0.3": 0.625
+      },
+      "nring": 12
+    }
+  ],
+  "verdict_route1": "ROUTE 1 ALIVE: B_CS density > 0 and m-stable (0.39,0.57) -> the Cauchy-Schwarz relaxation already proves a0>0; crux reduces to the STATIC bound Sum(I^2-R^2)+C2 >= a0'*m."
+}

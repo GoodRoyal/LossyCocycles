@@ -1,0 +1,48 @@
+{
+  "product_sumvar0": {
+    "5": 4.0054765060304476e-15,
+    "6": -1.0450001324338598e-14,
+    "7": 2.671474153004283e-16,
+    "8": -2.310651670001107e-15
+  },
+  "nyquist_sumvar0": {
+    "5": 2.598543241355614,
+    "6": -9.243934827665723e-15,
+    "7": 3.3685369961970273,
+    "8": -3.2833978591551016e-15
+  },
+  "rigidity": [
+    {
+      "m": 5,
+      "k": 2,
+      "in_sumvar0": 3.479,
+      "in_Cband": -2.0,
+      "in_Cpsi": 1.0,
+      "in_overwound": 1,
+      "in_all_ray": true,
+      "in_prod_defect": 0.2769,
+      "flat_sumvar0": 0.524,
+      "flat_Cband": 2.0,
+      "flat_Cpsi": -0.0,
+      "flat_overwound": 0,
+      "flat_all_ray": false,
+      "flat_prod_defect": 0.0846
+    },
+    {
+      "m": 6,
+      "k": 2,
+      "in_sumvar0": 4.808,
+      "in_Cband": -2.0,
+      "in_Cpsi": 3.0,
+      "in_overwound": 3,
+      "in_all_ray": true,
+      "in_prod_defect": 0.389,
+      "flat_sumvar0": 0.991,
+      "flat_Cband": 2.0,
+      "flat_Cpsi": 0.0,
+      "flat_overwound": 4,
+      "flat_all_ray": false,
+      "flat_prod_defect": 0.1404
+    }
+  ]
+}

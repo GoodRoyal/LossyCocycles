@@ -1,0 +1,43 @@
+{
+  "per_mk": [
+    {
+      "m": 5,
+      "k": 2,
+      "n_lines": 6,
+      "nplaq": 25,
+      "cs_floor": 6.3165,
+      "sumvar0": 3.6541,
+      "SF2_band": 37.624,
+      "SG2_combined": 49.5978,
+      "maxF": 2.8218,
+      "maxG": 3.0068,
+      "P_F": 7.418,
+      "P_G": 8.825,
+      "ratio_var_F": 0.099,
+      "ratio_var_G": 0.074
+    },
+    {
+      "m": 6,
+      "k": 2,
+      "n_lines": 6,
+      "nplaq": 36,
+      "cs_floor": 4.3865,
+      "sumvar0": 5.2099,
+      "SF2_band": 29.8306,
+      "SG2_combined": 41.2684,
+      "maxF": 2.3494,
+      "maxG": 2.4245,
+      "P_F": 11.376,
+      "P_G": 12.469,
+      "ratio_var_F": 0.179,
+      "ratio_var_G": 0.127
+    }
+  ],
+  "scaling": {
+    "var0": 1.426,
+    "SF2": 0.793,
+    "SG2": 0.832,
+    "cs": 0.694,
+    "verdict": "BAND route SUSPECT: Sum F^2 does NOT grow like Sum var0 -> wrong m-scaling (as feared)."
+  }
+}

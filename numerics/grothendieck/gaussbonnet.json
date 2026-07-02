@@ -1,0 +1,12 @@
+{
+  "C1_caperr": 1.4432899320127035e-15,
+  "C3_trerr": 8.881784197001252e-16,
+  "best_conformal": "a+ib = 1/2 e^{i phi} conj(P)",
+  "best_anti": "c+id = 1/2 e^{-i phi} Q",
+  "S_traceless_err": 1.6711069443220838e-16,
+  "det_formula_err": 3.552713678800501e-15,
+  "sharp_mismatches": 0,
+  "line_chern": 1.0000000000000002,
+  "w_min_abs": 1.1102230246251565e-16,
+  "w_winding": 1.4135798584282297e-16
+}

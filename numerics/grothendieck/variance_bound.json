@@ -1,0 +1,60 @@
+{
+  "per_mk": [
+    {
+      "m": 5,
+      "k": 2,
+      "n_lines": 32,
+      "c": 0.7068,
+      "median_maxring_var0": 0.7402,
+      "participation_mean": 7.259,
+      "n_rings": 10,
+      "sum_var0_mean": 3.654,
+      "corr_holonomy": -0.367,
+      "corr_frustr": 0.071,
+      "corr_magdeficit": 0.111,
+      "stressing_var0_spectrum": [
+        0.7068,
+        0.6598,
+        0.515,
+        0.4732,
+        0.2564,
+        0.2461,
+        0.238,
+        0.1866,
+        0.1413,
+        0.0557
+      ]
+    },
+    {
+      "m": 6,
+      "k": 2,
+      "n_lines": 32,
+      "c": 0.7826,
+      "median_maxring_var0": 0.7869,
+      "participation_mean": 10.063,
+      "n_rings": 12,
+      "sum_var0_mean": 5.21,
+      "corr_holonomy": 0.358,
+      "corr_frustr": 0.113,
+      "corr_magdeficit": 0.314,
+      "stressing_var0_spectrum": [
+        0.7826,
+        0.7242,
+        0.5381,
+        0.4821,
+        0.3888,
+        0.3658,
+        0.3338,
+        0.2888,
+        0.2746,
+        0.2728,
+        0.2529,
+        0.1031
+      ]
+    }
+  ],
+  "c_of_m": {
+    "5": 0.7068,
+    "6": 0.7826
+  }
+}

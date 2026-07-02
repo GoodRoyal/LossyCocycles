@@ -1,0 +1,42 @@
+{
+  "runs": [
+    {
+      "m": 6,
+      "k": 2,
+      "best": {
+        "trial": 0,
+        "chern_start": -2.0,
+        "chern_final": -2.0,
+        "start_min_mean_R": 0.434,
+        "pushed_min_mean_R": 0.6044,
+        "all_ray": true,
+        "allray_slack": 0.01607,
+        "n_in_sector_samples": 195,
+        "mu_star_real": 1.7709,
+        "mu0_hermitian": 0.419,
+        "H_k_false": false,
+        "bound_holds": true
+      }
+    },
+    {
+      "m": 5,
+      "k": 2,
+      "best": {
+        "trial": 0,
+        "chern_start": -2.0,
+        "chern_final": -2.0,
+        "start_min_mean_R": 0.4139,
+        "pushed_min_mean_R": 0.5768,
+        "all_ray": true,
+        "allray_slack": 0.01402,
+        "n_in_sector_samples": 23,
+        "mu_star_real": 1.8526,
+        "mu0_hermitian": 0.4811,
+        "H_k_false": false,
+        "bound_holds": true
+      }
+    }
+  ],
+  "worst_in_sector_min_mean_R": 0.6044,
+  "H_k_false": false
+}

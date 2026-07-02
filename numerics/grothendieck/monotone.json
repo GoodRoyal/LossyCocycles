@@ -1,0 +1,19 @@
+{
+  "monotone_min_gap": 0.00444979,
+  "lines": {
+    "k2_m6": {
+      "chern": -2.0,
+      "all_ray": true,
+      "max_loop_theta0": 5.4456,
+      "max_loop_theta": 10.3226,
+      "bilinear_free_suffices": true
+    },
+    "k1_m6": {
+      "chern": -1.0,
+      "all_ray": false,
+      "max_loop_theta0": 5.4566,
+      "max_loop_theta": 13.9355,
+      "bilinear_free_suffices": true
+    }
+  }
+}

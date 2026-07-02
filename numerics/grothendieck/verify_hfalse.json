@@ -1,0 +1,50 @@
+{
+  "lines": [
+    {
+      "m": 6,
+      "k": 2,
+      "chern": 1.0,
+      "chern_int": 1,
+      "all_ray": true,
+      "allray_slack": 0.01456,
+      "min_mean_R": 0.7935,
+      "mu_star_real": 0.8197,
+      "mu0_hermitian": -0.1561,
+      "H_false": true,
+      "bound_holds": true,
+      "bf_pos_cycle_real": true,
+      "bf_pos_cycle_herm": false
+    },
+    {
+      "m": 5,
+      "k": 2,
+      "chern": 1.0,
+      "chern_int": 1,
+      "all_ray": true,
+      "allray_slack": 0.01233,
+      "min_mean_R": 0.7556,
+      "mu_star_real": 1.4123,
+      "mu0_hermitian": 0.0283,
+      "H_false": false,
+      "bound_holds": true,
+      "bf_pos_cycle_real": true,
+      "bf_pos_cycle_herm": true
+    },
+    {
+      "m": 4,
+      "k": 2,
+      "chern": 1.0,
+      "chern_int": 1,
+      "all_ray": true,
+      "allray_slack": 0.01751,
+      "min_mean_R": 0.7413,
+      "mu_star_real": 0.858,
+      "mu0_hermitian": -0.1538,
+      "H_false": true,
+      "bound_holds": true,
+      "bf_pos_cycle_real": true,
+      "bf_pos_cycle_herm": false
+    }
+  ],
+  "any_H_false": true
+}

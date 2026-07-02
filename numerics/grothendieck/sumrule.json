@@ -1,0 +1,27 @@
+{
+  "per_mk": [
+    {
+      "m": 5,
+      "k": 2,
+      "n_lines": 2,
+      "identity_err": 1.7763568394002505e-15,
+      "a_min": 0.6958,
+      "a_mean": 0.7308,
+      "free_chern": 2.0,
+      "free_sumvar0": 0.5243,
+      "free_all_ray": false
+    },
+    {
+      "m": 6,
+      "k": 2,
+      "n_lines": 2,
+      "identity_err": 3.552713678800501e-15,
+      "a_min": 0.8013,
+      "a_mean": 0.8683,
+      "free_chern": -0.0,
+      "free_sumvar0": 1.0171,
+      "free_all_ray": false
+    }
+  ],
+  "identity_max_err": 3.552713678800501e-15
+}

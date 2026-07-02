@@ -1,0 +1,77 @@
+{
+  "m4_orthogonal": {
+    "delta": 1.0,
+    "bound": 1.0,
+    "ok": true
+  },
+  "m4_in-core(S)": {
+    "delta": 2.0,
+    "bound": 0.0,
+    "ok": true
+  },
+  "m4_random": {
+    "delta": 1.9635,
+    "bound": 1.0,
+    "ok": true
+  },
+  "m4_tilted.5": {
+    "delta": 1.8321,
+    "bound": 0.5547,
+    "ok": true
+  },
+  "m4_optimizer": {
+    "delta": 1.3431,
+    "bound": 0.0,
+    "ok": true
+  },
+  "m6_orthogonal": {
+    "delta": 1.0,
+    "bound": 1.0,
+    "ok": true
+  },
+  "m6_in-core(S)": {
+    "delta": 2.0,
+    "bound": 0.0,
+    "ok": true
+  },
+  "m6_random": {
+    "delta": 1.9974,
+    "bound": 1.0,
+    "ok": true
+  },
+  "m6_tilted.5": {
+    "delta": 1.8321,
+    "bound": 0.5547,
+    "ok": true
+  },
+  "m6_optimizer": {
+    "delta": 1.383,
+    "bound": 0.0,
+    "ok": true
+  },
+  "m8_orthogonal": {
+    "delta": 1.0,
+    "bound": 1.0,
+    "ok": true
+  },
+  "m8_in-core(S)": {
+    "delta": 2.0,
+    "bound": 0.0,
+    "ok": true
+  },
+  "m8_random": {
+    "delta": 1.9849,
+    "bound": 1.0,
+    "ok": true
+  },
+  "m8_tilted.5": {
+    "delta": 1.8321,
+    "bound": 0.5547,
+    "ok": true
+  },
+  "m8_optimizer": {
+    "delta": 1.3968,
+    "bound": 0.0,
+    "ok": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "runs": [
+    {
+      "m": 6,
+      "k": 2,
+      "n": 32,
+      "max_coh": 0.604,
+      "worst_min_wrap": -2.1402,
+      "worst_min_loop_meanR": 0.4284,
+      "W_holds": true,
+      "Wp_holds": true,
+      "worst_detail": {
+        "min_wrap": -2.14,
+        "which": "row y=1",
+        "coh": 0.604,
+        "chern": -2.0,
+        "min_loop_meanR": 0.428
+      }
+    },
+    {
+      "m": 5,
+      "k": 1,
+      "n": 16,
+      "max_coh": 0.513,
+      "worst_min_wrap": -2.3648,
+      "worst_min_loop_meanR": 0.3947,
+      "W_holds": true,
+      "Wp_holds": true,
+      "worst_detail": {
+        "min_wrap": -2.365,
+        "which": "row y=1",
+        "coh": 0.513,
+        "chern": -1.0,
+        "min_loop_meanR": 0.395
+      }
+    }
+  ],
+  "global_worst_min_wrap": -2.1402,
+  "global_worst_min_loop_meanR": 0.4284
+}

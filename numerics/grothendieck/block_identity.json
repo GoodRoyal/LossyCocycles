@@ -1,0 +1,94 @@
+{
+  "ideal": {
+    "4": {
+      "resid": 0.0,
+      "kept": 0.390181,
+      "comm_P": 0.390181,
+      "diff": 0.0,
+      "bound": 0.0,
+      "leak": 0.0,
+      "full_leak": 0.0,
+      "unit_def": 0.0,
+      "comm_target": 0.390181
+    },
+    "6": {
+      "resid": 0.0,
+      "kept": 0.174311,
+      "comm_P": 0.174311,
+      "diff": 0.0,
+      "bound": 0.0,
+      "leak": 0.0,
+      "full_leak": 0.0,
+      "unit_def": 0.0,
+      "comm_target": 0.174311
+    },
+    "8": {
+      "resid": 0.0,
+      "kept": 0.098135,
+      "comm_P": 0.098135,
+      "diff": 0.0,
+      "bound": 0.0,
+      "leak": 0.0,
+      "full_leak": 0.0,
+      "unit_def": 0.0,
+      "comm_target": 0.098135
+    },
+    "12": {
+      "resid": 0.0,
+      "kept": 0.04363,
+      "comm_P": 0.04363,
+      "diff": 0.0,
+      "bound": 0.0,
+      "leak": 0.0,
+      "full_leak": 0.0,
+      "unit_def": 0.0,
+      "comm_target": 0.04363
+    }
+  },
+  "wobble": {
+    "4": {
+      "resid": 0.0,
+      "kept": 0.390372,
+      "comm_P": 0.390295,
+      "diff": 0.000216,
+      "bound": 0.000735,
+      "leak": 0.020188,
+      "full_leak": 0.023873,
+      "unit_def": 0.000507,
+      "comm_target": 0.390181
+    },
+    "6": {
+      "resid": 0.0,
+      "kept": 0.174582,
+      "comm_P": 0.174585,
+      "diff": 0.000314,
+      "bound": 0.000735,
+      "leak": 0.020185,
+      "full_leak": 0.02819,
+      "unit_def": 0.000663,
+      "comm_target": 0.174311
+    },
+    "8": {
+      "resid": 0.0,
+      "kept": 0.098394,
+      "comm_P": 0.098472,
+      "diff": 0.000358,
+      "bound": 0.000893,
+      "leak": 0.02212,
+      "full_leak": 0.030271,
+      "unit_def": 0.000979,
+      "comm_target": 0.098135
+    },
+    "12": {
+      "resid": 0.0,
+      "kept": 0.044224,
+      "comm_P": 0.044054,
+      "diff": 0.000467,
+      "bound": 0.00138,
+      "leak": 0.026894,
+      "full_leak": 0.039784,
+      "unit_def": 0.001317,
+      "comm_target": 0.04363
+    }
+  }
+}

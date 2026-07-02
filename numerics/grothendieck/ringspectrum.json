@@ -1,0 +1,47 @@
+{
+  "lines": [
+    {
+      "m": 6,
+      "k": 2,
+      "n_lines": 32,
+      "worst_min_meanR": 0.4284,
+      "worst_ring": {
+        "kind": "row",
+        "idx": 1,
+        "sig": 0,
+        "Theta": 2.671,
+        "Wilson": 0.118,
+        "frustr": 2.094,
+        "energy": 2.14
+      },
+      "Wp_holds": true
+    },
+    {
+      "m": 5,
+      "k": 2,
+      "n_lines": 32,
+      "worst_min_meanR": 0.3574,
+      "worst_ring": {
+        "kind": "col",
+        "idx": 1,
+        "sig": 1,
+        "Theta": -0.408,
+        "Wilson": 0.063,
+        "frustr": 2.513,
+        "energy": 2.406
+      },
+      "Wp_holds": true
+    }
+  ],
+  "summary": {
+    "n_lines": 64,
+    "global_worst_meanR": 0.4284,
+    "global_worst_max_energy": 2.1402,
+    "Wp_holds": true,
+    "unif_identity_maxerr": 6.661338147750939e-16,
+    "sig_varies_lines": 32,
+    "sig_tracks_worst": 0,
+    "energy_tracks_worst": 64,
+    "frustr_picks_worst": 32
+  }
+}

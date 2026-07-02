@@ -1,0 +1,14 @@
+{
+  "k2_m6": {
+    "all_ray": true,
+    "chern": -2.0,
+    "H_min": 2.921,
+    "H_max": 8.026,
+    "V_min": 3.129,
+    "V_max": 10.323,
+    "all_H_pos": true,
+    "all_V_pos": true,
+    "mu_star": 1.8108
+  },
+  "k2_m8": null
+}

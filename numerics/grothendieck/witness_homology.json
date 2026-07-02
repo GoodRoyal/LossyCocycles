@@ -1,0 +1,68 @@
+{
+  "lines": [
+    {
+      "m": 6,
+      "k": 2,
+      "chern": -2.0,
+      "source": "margin",
+      "hclass": [
+        0,
+        1
+      ],
+      "C_len": 6,
+      "nx": 0,
+      "ny": 6,
+      "mu0": 0.9076,
+      "sum_log2R": -5.446,
+      "wrap_x": 0.0,
+      "wrap_y": 1.0,
+      "best_wrap": -5.446,
+      "wrap_works": true,
+      "witness_works": true
+    },
+    {
+      "m": 6,
+      "k": 2,
+      "chern": -2.0,
+      "source": "pushed",
+      "hclass": [
+        1,
+        1
+      ],
+      "C_len": 12,
+      "nx": 6,
+      "ny": 6,
+      "mu0": 0.3998,
+      "sum_log2R": -4.798,
+      "wrap_x": 1.0,
+      "wrap_y": 1.0,
+      "best_wrap": -1.941,
+      "wrap_works": true,
+      "witness_works": true
+    },
+    {
+      "m": 5,
+      "k": 1,
+      "chern": -1.0,
+      "source": "margin",
+      "hclass": [
+        1,
+        1
+      ],
+      "C_len": 10,
+      "nx": 5,
+      "ny": 5,
+      "mu0": 0.7024,
+      "sum_log2R": -7.024,
+      "wrap_x": 1.0,
+      "wrap_y": 1.0,
+      "best_wrap": -2.365,
+      "wrap_works": true,
+      "witness_works": true
+    }
+  ],
+  "classes": {
+    "(0, 1)": 1,
+    "(1, 1)": 2
+  }
+}

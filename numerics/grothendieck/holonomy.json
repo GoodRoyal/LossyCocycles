@@ -1,0 +1,70 @@
+{
+  "k2_m8": [
+    {
+      "frac_a_pos": 0.938,
+      "frac_active": 0.406,
+      "n_active": 52,
+      "n_edges": 128,
+      "beta_active_med": 1.011,
+      "xi_active_med": 0.151,
+      "deltastar_active_absmed": 0.505,
+      "reduction_mismatches": 0,
+      "minimax_bracket": -0.00327
+    },
+    {
+      "frac_a_pos": 0.906,
+      "frac_active": 0.477,
+      "n_active": 61,
+      "n_edges": 128,
+      "beta_active_med": 1.008,
+      "xi_active_med": 0.123,
+      "deltastar_active_absmed": 0.532,
+      "reduction_mismatches": 0,
+      "minimax_bracket": -0.00372
+    },
+    {
+      "frac_a_pos": 0.898,
+      "frac_active": 0.383,
+      "n_active": 49,
+      "n_edges": 128,
+      "beta_active_med": 1.011,
+      "xi_active_med": 0.148,
+      "deltastar_active_absmed": 0.499,
+      "reduction_mismatches": 0,
+      "minimax_bracket": -0.0034
+    },
+    {
+      "frac_a_pos": 0.961,
+      "frac_active": 0.547,
+      "n_active": 70,
+      "n_edges": 128,
+      "beta_active_med": 1.011,
+      "xi_active_med": 0.151,
+      "deltastar_active_absmed": 0.514,
+      "reduction_mismatches": 0,
+      "minimax_bracket": -0.00332
+    },
+    {
+      "frac_a_pos": 0.914,
+      "frac_active": 0.523,
+      "n_active": 67,
+      "n_edges": 128,
+      "beta_active_med": 1.011,
+      "xi_active_med": 0.148,
+      "deltastar_active_absmed": 0.505,
+      "reduction_mismatches": 0,
+      "minimax_bracket": -0.00347
+    },
+    {
+      "frac_a_pos": 0.953,
+      "frac_active": 0.43,
+      "n_active": 55,
+      "n_edges": 128,
+      "beta_active_med": 1.013,
+      "xi_active_med": 0.161,
+      "deltastar_active_absmed": 0.381,
+      "reduction_mismatches": 0,
+      "minimax_bracket": -0.00303
+    }
+  ]
+}

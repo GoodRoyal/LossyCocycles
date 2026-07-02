@@ -1,0 +1,350 @@
+{
+  "k1_m6": {
+    "trivial_pb": 1.0,
+    "overall_min_pb": 1.0,
+    "min_from": null,
+    "runs": {
+      "winding": {
+        "min_pb": 1.00145,
+        "final_chern": 0.0
+      },
+      "rand0": {
+        "min_pb": 1.00124,
+        "final_chern": 1.0
+      },
+      "rand1": {
+        "min_pb": 1.00118,
+        "final_chern": 1.0
+      },
+      "rand2": {
+        "min_pb": 1.00148,
+        "final_chern": 1.0
+      },
+      "rand3": {
+        "min_pb": 1.00179,
+        "final_chern": 1.0
+      }
+    },
+    "below_one": false,
+    "seconds": 4.4
+  },
+  "k1_m8": {
+    "trivial_pb": 1.0,
+    "overall_min_pb": 1.0,
+    "min_from": null,
+    "runs": {
+      "winding": {
+        "min_pb": 1.00175,
+        "final_chern": -0.0
+      },
+      "rand0": {
+        "min_pb": 1.00199,
+        "final_chern": 1.0
+      },
+      "rand1": {
+        "min_pb": 1.00141,
+        "final_chern": 1.0
+      },
+      "rand2": {
+        "min_pb": 1.002,
+        "final_chern": 1.0
+      },
+      "rand3": {
+        "min_pb": 1.00141,
+        "final_chern": 1.0
+      }
+    },
+    "below_one": false,
+    "seconds": 6.7
+  },
+  "k1_m12": {
+    "trivial_pb": 1.0,
+    "overall_min_pb": 1.0,
+    "min_from": null,
+    "runs": {
+      "winding": {
+        "min_pb": 1.00189,
+        "final_chern": 1.0
+      },
+      "rand0": {
+        "min_pb": 1.00159,
+        "final_chern": 1.0
+      },
+      "rand1": {
+        "min_pb": 1.00199,
+        "final_chern": 1.0
+      },
+      "rand2": {
+        "min_pb": 1.00371,
+        "final_chern": 1.0
+      },
+      "rand3": {
+        "min_pb": 1.00183,
+        "final_chern": 1.0
+      }
+    },
+    "below_one": false,
+    "seconds": 13.4
+  },
+  "k1_m16": {
+    "trivial_pb": 1.0,
+    "overall_min_pb": 1.0,
+    "min_from": null,
+    "runs": {
+      "winding": {
+        "min_pb": 1.00209,
+        "final_chern": 1.0
+      },
+      "rand0": {
+        "min_pb": 1.00809,
+        "final_chern": 1.0
+      },
+      "rand1": {
+        "min_pb": 1.00212,
+        "final_chern": 1.0
+      },
+      "rand2": {
+        "min_pb": 1.00661,
+        "final_chern": 1.0
+      },
+      "rand3": {
+        "min_pb": 1.0094,
+        "final_chern": 1.0
+      }
+    },
+    "below_one": false,
+    "seconds": 23.1
+  },
+  "k1_m24": {
+    "trivial_pb": 1.0,
+    "overall_min_pb": 1.0,
+    "min_from": null,
+    "runs": {
+      "winding": {
+        "min_pb": 1.00999,
+        "final_chern": 1.0
+      },
+      "rand0": {
+        "min_pb": 1.00964,
+        "final_chern": 2.0
+      },
+      "rand1": {
+        "min_pb": 1.00937,
+        "final_chern": 1.0
+      },
+      "rand2": {
+        "min_pb": 1.0094,
+        "final_chern": -0.0
+      },
+      "rand3": {
+        "min_pb": 1.01067,
+        "final_chern": 1.0
+      }
+    },
+    "below_one": false,
+    "seconds": 37.6
+  },
+  "k1_m32": {
+    "trivial_pb": 1.0,
+    "overall_min_pb": 1.0,
+    "min_from": null,
+    "runs": {
+      "winding": {
+        "min_pb": 1.01047,
+        "final_chern": 1.0
+      },
+      "rand0": {
+        "min_pb": 1.0088,
+        "final_chern": 1.0
+      },
+      "rand1": {
+        "min_pb": 1.01097,
+        "final_chern": 1.0
+      },
+      "rand2": {
+        "min_pb": 1.01038,
+        "final_chern": 1.0
+      },
+      "rand3": {
+        "min_pb": 1.0108,
+        "final_chern": 1.0
+      }
+    },
+    "below_one": false,
+    "seconds": 69.4
+  },
+  "k2_m6": {
+    "trivial_pb": 1.0,
+    "overall_min_pb": 1.0,
+    "min_from": null,
+    "runs": {
+      "winding": {
+        "min_pb": 1.00173,
+        "final_chern": -0.0
+      },
+      "rand0": {
+        "min_pb": 1.00241,
+        "final_chern": 2.0
+      },
+      "rand1": {
+        "min_pb": 1.00086,
+        "final_chern": 0.0
+      },
+      "rand2": {
+        "min_pb": 1.00181,
+        "final_chern": 1.0
+      },
+      "rand3": {
+        "min_pb": 1.00098,
+        "final_chern": 2.0
+      }
+    },
+    "below_one": false,
+    "seconds": 4.4
+  },
+  "k2_m8": {
+    "trivial_pb": 1.0,
+    "overall_min_pb": 1.0,
+    "min_from": null,
+    "runs": {
+      "winding": {
+        "min_pb": 1.0019,
+        "final_chern": 0.0
+      },
+      "rand0": {
+        "min_pb": 1.00205,
+        "final_chern": 2.0
+      },
+      "rand1": {
+        "min_pb": 1.00222,
+        "final_chern": 2.0
+      },
+      "rand2": {
+        "min_pb": 1.00172,
+        "final_chern": 2.0
+      },
+      "rand3": {
+        "min_pb": 1.0022,
+        "final_chern": 2.0
+      }
+    },
+    "below_one": false,
+    "seconds": 6.8
+  },
+  "k2_m12": {
+    "trivial_pb": 1.0,
+    "overall_min_pb": 1.0,
+    "min_from": null,
+    "runs": {
+      "winding": {
+        "min_pb": 1.00192,
+        "final_chern": 1.0
+      },
+      "rand0": {
+        "min_pb": 1.0016,
+        "final_chern": 2.0
+      },
+      "rand1": {
+        "min_pb": 1.00212,
+        "final_chern": 2.0
+      },
+      "rand2": {
+        "min_pb": 1.00195,
+        "final_chern": 2.0
+      },
+      "rand3": {
+        "min_pb": 1.00173,
+        "final_chern": 2.0
+      }
+    },
+    "below_one": false,
+    "seconds": 13.5
+  },
+  "k2_m16": {
+    "trivial_pb": 1.0,
+    "overall_min_pb": 1.0,
+    "min_from": null,
+    "runs": {
+      "winding": {
+        "min_pb": 1.00237,
+        "final_chern": 2.0
+      },
+      "rand0": {
+        "min_pb": 1.00237,
+        "final_chern": 2.0
+      },
+      "rand1": {
+        "min_pb": 1.00182,
+        "final_chern": 2.0
+      },
+      "rand2": {
+        "min_pb": 1.00975,
+        "final_chern": 2.0
+      },
+      "rand3": {
+        "min_pb": 1.00203,
+        "final_chern": 2.0
+      }
+    },
+    "below_one": false,
+    "seconds": 23.5
+  },
+  "k2_m24": {
+    "trivial_pb": 1.0,
+    "overall_min_pb": 1.0,
+    "min_from": null,
+    "runs": {
+      "winding": {
+        "min_pb": 1.00708,
+        "final_chern": 2.0
+      },
+      "rand0": {
+        "min_pb": 1.01016,
+        "final_chern": 2.0
+      },
+      "rand1": {
+        "min_pb": 1.01235,
+        "final_chern": 2.0
+      },
+      "rand2": {
+        "min_pb": 1.01043,
+        "final_chern": 2.0
+      },
+      "rand3": {
+        "min_pb": 1.01055,
+        "final_chern": 1.0
+      }
+    },
+    "below_one": false,
+    "seconds": 38.4
+  },
+  "k2_m32": {
+    "trivial_pb": 1.0,
+    "overall_min_pb": 1.0,
+    "min_from": null,
+    "runs": {
+      "winding": {
+        "min_pb": 1.0097,
+        "final_chern": 2.0
+      },
+      "rand0": {
+        "min_pb": 1.01093,
+        "final_chern": 1.0
+      },
+      "rand1": {
+        "min_pb": 1.01249,
+        "final_chern": 2.0
+      },
+      "rand2": {
+        "min_pb": 1.01099,
+        "final_chern": 2.0
+      },
+      "rand3": {
+        "min_pb": 1.01133,
+        "final_chern": 2.0
+      }
+    },
+    "below_one": false,
+    "seconds": 67.7
+  }
+}

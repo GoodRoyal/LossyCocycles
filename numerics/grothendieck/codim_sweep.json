@@ -1,0 +1,66 @@
+{
+  "d3r2": {
+    "4": {
+      "coreGap": 1.0,
+      "leak_ideal": 0.0,
+      "leak_over_eps": 2.3873,
+      "distOpFlat": 1.2435
+    },
+    "6": {
+      "coreGap": 1.0,
+      "leak_ideal": 0.0,
+      "leak_over_eps": 2.819,
+      "distOpFlat": 1.383
+    },
+    "8": {
+      "coreGap": 1.0,
+      "leak_ideal": 0.0,
+      "leak_over_eps": 3.0271,
+      "distOpFlat": 1.3968
+    },
+    "12": {
+      "coreGap": 1.0,
+      "leak_ideal": 0.0,
+      "leak_over_eps": 3.9784,
+      "distOpFlat": 1.4065
+    },
+    "16": {
+      "coreGap": 1.0,
+      "leak_ideal": 0.0,
+      "leak_over_eps": 3.8845,
+      "distOpFlat": 1.4099
+    }
+  },
+  "d4r2": {
+    "4": {
+      "coreGap": 1.0,
+      "leak_ideal": 0.0,
+      "leak_over_eps": 2.7627,
+      "distOpFlat": 1.0816
+    },
+    "6": {
+      "coreGap": 1.0,
+      "leak_ideal": 0.0,
+      "leak_over_eps": 2.6784,
+      "distOpFlat": 1.1508
+    },
+    "8": {
+      "coreGap": 1.0,
+      "leak_ideal": 0.0,
+      "leak_over_eps": 3.2723,
+      "distOpFlat": 1.2636
+    },
+    "12": {
+      "coreGap": 1.0,
+      "leak_ideal": 0.0,
+      "leak_over_eps": 3.2541,
+      "distOpFlat": 1.4065
+    },
+    "16": {
+      "coreGap": 1.0,
+      "leak_ideal": 0.0,
+      "leak_over_eps": 3.6961,
+      "distOpFlat": 1.4099
+    }
+  }
+}

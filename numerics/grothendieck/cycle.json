@@ -1,0 +1,94 @@
+{
+  "m8": [
+    {
+      "tag": "minPB=1.0089",
+      "chern": 2.0,
+      "n_ray": 111,
+      "n_interval": 0,
+      "n_empty": 17,
+      "frac_halfplane_pos": 1.0,
+      "mu_star": null,
+      "infeasible_via": "empty-edge (PB_e>=1 unconditionally)"
+    },
+    {
+      "tag": "minPB=1.0087",
+      "chern": 1.0,
+      "n_ray": 112,
+      "n_interval": 0,
+      "n_empty": 16,
+      "frac_halfplane_pos": 0.977,
+      "mu_star": null,
+      "infeasible_via": "empty-edge (PB_e>=1 unconditionally)"
+    },
+    {
+      "tag": "minPB=1.0073",
+      "chern": 2.0,
+      "n_ray": 119,
+      "n_interval": 0,
+      "n_empty": 9,
+      "frac_halfplane_pos": 1.0,
+      "mu_star": null,
+      "infeasible_via": "empty-edge (PB_e>=1 unconditionally)"
+    },
+    {
+      "tag": "minPB=1.0077",
+      "chern": 2.0,
+      "n_ray": 108,
+      "n_interval": 0,
+      "n_empty": 20,
+      "frac_halfplane_pos": 0.992,
+      "mu_star": null,
+      "infeasible_via": "empty-edge (PB_e>=1 unconditionally)"
+    },
+    {
+      "tag": "minPB=1.0085",
+      "chern": 2.0,
+      "n_ray": 120,
+      "n_interval": 0,
+      "n_empty": 8,
+      "frac_halfplane_pos": 1.0,
+      "mu_star": null,
+      "infeasible_via": "empty-edge (PB_e>=1 unconditionally)"
+    },
+    {
+      "tag": "minPB=1.0064",
+      "chern": 2.0,
+      "n_ray": 124,
+      "n_interval": 0,
+      "n_empty": 4,
+      "frac_halfplane_pos": 1.0,
+      "mu_star": null,
+      "infeasible_via": "empty-edge (PB_e>=1 unconditionally)"
+    },
+    {
+      "tag": "margin-asc0",
+      "chern": -2.0,
+      "n_ray": 64,
+      "n_interval": 0,
+      "n_empty": 64,
+      "frac_halfplane_pos": 0.531,
+      "mu_star": null,
+      "infeasible_via": "empty-edge (PB_e>=1 unconditionally)"
+    },
+    {
+      "tag": "margin-asc1",
+      "chern": 0.0,
+      "n_ray": 65,
+      "n_interval": 0,
+      "n_empty": 63,
+      "frac_halfplane_pos": 0.508,
+      "mu_star": null,
+      "infeasible_via": "empty-edge (PB_e>=1 unconditionally)"
+    },
+    {
+      "tag": "margin-asc2",
+      "chern": -2.0,
+      "n_ray": 59,
+      "n_interval": 0,
+      "n_empty": 69,
+      "frac_halfplane_pos": 0.5,
+      "mu_star": null,
+      "infeasible_via": "empty-edge (PB_e>=1 unconditionally)"
+    }
+  ]
+}

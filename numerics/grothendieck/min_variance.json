@@ -1,0 +1,24 @@
+{
+  "per_mk": [
+    {
+      "m": 5,
+      "k": 2,
+      "n_starts": 3,
+      "start_max_ring_var0": 0.7068,
+      "in_sector_floor": 0.4945,
+      "free_floor": 0.0535,
+      "free_chern": 1.0,
+      "inf_positive_supported": true
+    },
+    {
+      "m": 6,
+      "k": 2,
+      "n_starts": 3,
+      "start_max_ring_var0": 0.8044,
+      "in_sector_floor": 0.6186,
+      "free_floor": 0.0938,
+      "free_chern": 1.0,
+      "inf_positive_supported": true
+    }
+  ]
+}
