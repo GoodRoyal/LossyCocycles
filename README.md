@@ -56,8 +56,10 @@ The build reports the single `sorry` warning in
 
 ## Companion paper
 
-*Formalized Mathematics as a Debugging Tool: Correcting a False Invariant in
-Lattice Gauge Theory* (draft; link to be added on posting). The paper narrates the
+[*Formalized Mathematics as a Debugging Tool: Falsifying an Invariant and Deleting
+a Phantom Difficulty in Lattice Gauge Theory*](https://enthropysystems.com/papers/paper4-formalized-debugging.pdf)
+(preprint, July 2026; part of [a six-paper program](https://enthropysystems.com/#papers)
+on structural invariants under lossy translation). The paper narrates the
 two debugging events the formalization produced: the shear-family falsification of
 the winding invariant, and the discovery during the reduction proof that a
 distance-translation step previously believed to be half the open problem is not
